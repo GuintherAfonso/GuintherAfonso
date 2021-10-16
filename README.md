@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuintherAfonso
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning CSS anhd JS
+- 🌱 I’m currently learning CSS and JS
 
 
 <!---
